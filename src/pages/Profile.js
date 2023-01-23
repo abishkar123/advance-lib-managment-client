@@ -42,7 +42,7 @@ const Profile = () => {
         <DashboardLayout>
             <Modal show={showForm} onHide={() =>SetShowForm(false)}>
              <Modal.Header>
-                <Modal.Title>update password</Modal.Title>
+                <Modal.Title>Update Password</Modal.Title>
              </Modal.Header>
              <Modal.Body>
                 <div className='p-3'>
